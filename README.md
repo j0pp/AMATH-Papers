@@ -6,3 +6,5 @@ A repository containing the papers I have written for Applied Math classes at th
     - **Topics:** PCA, SVD, Ridge Regression, Classification
 3. AMATH_Red_Wine.pdf
     - **Topics:** Kernel Ridge Regression (Gaussian and Laplacian Kernels), Linear Regression, Cross Validation
+4. AMATH_Politicians.pdf
+    - **Topics:** Spectral Clustering, Linear Regression
