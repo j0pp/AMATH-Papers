@@ -1,4 +1,4 @@
-# Jonathan Beaubien's AMATH Papers
+# Jonathan Beaubien's AMATH Paper Repository
 A repository containing the papers I have written for Applied Math classes at the University of Washington.
 1. AMATH_Submarine.pdf
     - **Topics:** Discrete Fourier Transforms, FFT/IFFT, Gaussian Filters
